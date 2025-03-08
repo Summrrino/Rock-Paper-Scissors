@@ -21,7 +21,7 @@ function playGame(){
         return humanChoice;
     }
     
-    console.log(getHumanChoice());
+    
 
     let computerScore = 0;
     let humanScore = 0;
